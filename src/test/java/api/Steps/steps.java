@@ -11,7 +11,7 @@ public class steps {
 
     @Given("^when user is on login page$")
     public void when_user_is_on_login_page() throws Throwable {
-        System.out.println("when_user_is_on_login_page");
+        System.out.println("when_user_is_on_login_page_good");
     }
 
     @When("^when user enters username and password$")
